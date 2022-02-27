@@ -17,7 +17,7 @@ html{
 
 body{
     padding-left: 20rem;
-    background:url(./Images/img2.jpg) no-repeat center center/cover;   
+     
     height: 900px;
     opacity: 1000;
     background-color: darkgray;
@@ -94,9 +94,34 @@ header .follow a:hover{
     color:white;
     font-size: 3rem;
     font-weight: bolder;
-    
+}
 
+.about{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 50px;
+    padding-left: 15%;
 
+}
+
+.pic{
+    display: flex;
+}
+
+.pic img{
+    width: 575px;
+    height: 400px;
+}
+
+.intro{
+    display: flex;
+    text-align: justify;
+    flex-direction: column;
+    padding: 20px;
+    font-size: 2rem;
+}
 
 
 
