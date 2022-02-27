@@ -33,6 +33,8 @@ header{
     align-items: center;
     padding:6rem 2rem;
     flex-flow: column;
+    width: 25rem;
+    text-align: center;
 }
 
 header .logo{
@@ -40,3 +42,26 @@ header .logo{
     font-size: 3rem;
     font-weight: bolder;
 }
+
+header  .navbar a{
+    display:block;
+    font-size: 2rem;
+    margin: 3rem 0;
+}
+
+header .navbar a:hover{
+    background-color: white;
+    box-shadow: 0 0 40px limegreen;
+    letter-spacing: .1.5rem ;
+}
+
+header .follow a{
+    margin: 0 .7rem;
+    font-size:2rem;
+}
+
+header .follow a:hover{
+    box-shadow: 0 0 40px limegreen;
+    background-color: white;
+}
+
