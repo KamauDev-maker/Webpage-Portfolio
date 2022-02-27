@@ -3,7 +3,7 @@
 ###### *By Oscar Kamau*
 ## Description
 Here in contains the coding portfolio of Oscar Kamau. The webpage 
-will include a list of Github Projects and information about me. This page can be viewed at this [link](http://https://github.com/KamauDev-maker/Portfolio-landing-page--e.git "landing page")
+will include a list of Github Projects and information about me. This page can be viewed at this [link](https://github.com/KamauDev-maker/Webpage-Portfolio.git)
 ## Setup/Installation Requirements
 - Clone this repository to your desktop by navigating to the desktop Terminal and enter "git clone" followed by the link to this repository.
 - Once the directory is cloned to your destop, open the directory in Visual Studio Code by entering the command "code ."- in the Terminal.
