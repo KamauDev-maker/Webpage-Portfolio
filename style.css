@@ -127,6 +127,18 @@ header .follow a:hover{
     padding-left: 50% ;
 }
 
+.portfolio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    padding: 20px;
+    margin-bottom: 50px;
+    font-size: 3rem;
+    color: red;
+
+
 
 
 
