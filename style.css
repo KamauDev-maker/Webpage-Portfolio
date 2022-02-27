@@ -82,3 +82,36 @@ header .follow a:hover{
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1000px){
+
+    html{
+        font-size: 60%;
+
+    }
+
+    body{
+        padding:0 ;
+    }
+
+    #menu-bars{
+        display: initial;
+    }
+}
