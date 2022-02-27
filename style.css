@@ -16,10 +16,9 @@ html{
 }
 
 body{
-    padding-left: 30rem;
-    background:url(./Images/img2.jpg) no-repeat center center/cover;
+    padding-left: 20rem;
+    background:url(./Images/img2.jpg) no-repeat center center/cover;   
     height: 900px;
-    opacity: .8;
 }
 
 header{
@@ -80,6 +79,14 @@ header .follow a:hover{
     box-shadow: 0 0 40px limegreen;
     letter-spacing: .1.5rem ;
 }
+
+
+
+
+
+
+
+
 
 
 
